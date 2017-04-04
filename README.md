@@ -20,11 +20,11 @@ A simple demo for Arduino UNO R3 (ATmega328p) + BLE communication.
 
 
 ## BLE module:
-- LinkSprite, BLE4.0 Shield based on TICC2541
+- “LinkSprite”, BLE4.0 Shield based on TICC2541 (ref3)
 
 
 ## BLE app on mobile phone:
-- BLE debug app such as LightBlue on App store
+- “LightBlue” on App store
 
 
 ## References:
