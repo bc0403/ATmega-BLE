@@ -8,6 +8,7 @@ A simple demo for Arduino UNO R3 (ATmega328p) + BLE communication.
 
 ## Usage:
 - using "avr-gcc + avrdude" toolchain (ref4);
+- change usb port in "Makefile" according to your develop environment (line 150);
 - use `make flash` to compile and upload codes to MCU;
 - Please disconnect Rx pin on Arduino when uploading code, since Arduino's USART port is shared with usb.
 
